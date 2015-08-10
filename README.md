@@ -2,6 +2,9 @@
 
 This bot, built over Telegram API is designed to test a subscriber, update model for replacing emails using Telegram.
 
+# MOVED #
+While this repository works, it has been forked to [telegram-updates-bot](https://github.com/asdofindia/telegram-updates-bot) to allow building a reusable bot
+
 ## Setting up ##
 ```bash
 git clone https://github.com/asdofindia/telegram-fossnewsbot.git
